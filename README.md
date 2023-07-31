@@ -4,3 +4,8 @@
 - I am Chemical Engineer
 - I am interested in artificial intelligence and technology in the field of criminal psychology. I am currently learning Python programming and  digital     image 
 -  processing.
+
+
+
+![Shayesteh's github stats](https://github-readme-stats.vercel.app/api?username=shayesteh73&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayesteh73&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
