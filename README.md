@@ -2,8 +2,8 @@
 
 ###  About me  :🕵️‍♀️:
 - I am Chemical Engineer
-- I am interested in artificial intelligence and technology in the field of criminal psychology. I am currently learning Python programming and  digital     image 
--  processing.
+- I am interested in artificial intelligence and technology in the field of criminal psychology. I am currently learning Python programming and digital image Processing.
+
 
 
 
